@@ -2,7 +2,7 @@
 
 🎓 I'm a first-year B.Tech student in Artificial Intelligence at SRM Institute of Science and Technology, Ramapuram Campus.
 
-🌱 Currently learning **Python and exploring the world of **AI & Machine Learning** through mini-projects and online challenges.
+🌱 Currently learning **Python** and exploring the world of **AI & Machine Learning** through mini-projects and online challenges.
 
 🚀 I'm looking forward to:
 - Building cool AI projects
