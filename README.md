@@ -18,7 +18,7 @@
 📫 Connect with me:
 - 📍 Chennai, India
 - ✉️ email: rishikcr72401@gmail.com
-- 🔗 LinkedIn: [add your link later]
+- 🔗 LinkedIn: linkedin.com/in/abnsrishik
 
 ---
 🛠️ *“Learning never stops. I build while I learn.”*
