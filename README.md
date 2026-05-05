@@ -1,74 +1,89 @@
-# 👋 Hi, I'm A.B.N.S Rishik
+# A.B.N.S Rishik
 
-🎓 **B.Tech (Artificial Intelligence) – First Year**  
-📍 SRM Institute of Science and Technology, Ramapuram Campus | Chennai, India
-
----
-
-## 👨‍💻 About Me
-
-I am a first-year undergraduate student specializing in **Artificial Intelligence**, currently building a strong foundation in **Python programming, problem-solving, and computational thinking**.
-
-At this stage of my journey, my focus is on **learning concepts deeply and implementing them through code**, rather than rushing into complex frameworks. I believe strong fundamentals are essential before working on advanced AI and ML systems.
+**B.Tech Artificial Intelligence · SRM Institute of Science and Technology, Ramapuram**
+Chennai, India &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/abnsrishik) &nbsp;·&nbsp; rishikcr72401@gmail.com
 
 ---
 
-## 🛠️ Technical Skills (In Progress)
+## About
 
-- **Programming Language:** Python  
-- **Core Programming Concepts:**  
-  - Variables, Data Types, Control Flow  
-  - Functions and Modular Code  
-  - Basic Data Structures  
-- **Practices & Tools:**  
-  - Git & GitHub (version control)  
-  - Writing readable and structured code  
-  - Debugging and logical reasoning  
+First-year AI student who builds and ships — not just learns.
+
+I'm interested in the full stack of intelligence: how models learn from data, how language can be understood by machines, and how AI tools can solve real problems for real people. My approach is to build things early and improve them iteratively.
+
+Open to internship opportunities in **ML engineering, AI development, and data science**.
 
 ---
 
-## 📂 What You'll Find on My GitHub
+## Projects
 
-- 🧩 **Python Practice Programs** – Concept-wise implementations  
-- 🧮 **Mini Logic-Based Projects** – Small programs to apply fundamentals  
-- 📘 **Learning Repositories** – Code written while learning Python and CS basics  
+### 🔗 Assignment Evaluator &nbsp;·&nbsp; [Live App](https://assigneval.onrender.com)
+AI-powered assignment grading system with a multi-model pipeline. Teachers create assignments and attach a rubric (written or AI-generated). Students submit PDFs or photos of handwritten work.
 
-> This GitHub reflects **my learning process and consistency**, not copied or tutorial-only code.
+**How it works:**
+1. **Handwritten OCR** — Llama 4 Scout (vision LLM) extracts text from handwritten pages before evaluation
+2. **Rubric-grounded scoring** — Llama 3.3 70B receives the student's answer + the teacher's rubric verbatim, at `temperature=0` for consistency
+3. **Structured output** — returns JSON: marks per question, what was correct, what was missing, and a feedback paragraph
+4. **Teacher review loop** — teacher approves or overrides any score before it's finalised
 
----
+No keyword matching. The prompt explicitly instructs the model to award marks based only on what is actually written, supporting partial credit.
 
-## 🌱 Currently Learning
-
-- Advanced Python concepts  
-- Problem-solving techniques  
-- Foundations of Artificial Intelligence and Machine Learning  
-- Preparing to build **AI-based projects step by step**
+`Python` `Llama 3.3 70B` `Llama 4 Scout` `Vision OCR` `Multi-model Pipeline` `Render`
 
 ---
 
-## 🎯 Career Objective
+### 🤖 ShadowFox Internship — ML Projects &nbsp;·&nbsp; [Repo](https://github.com/abnsrishik/shadowfox)
+Three end-to-end ML projects built during a structured internship program:
 
-To secure my **first internship** in a technical role where I can:
-- Apply my programming fundamentals  
-- Learn from real-world systems  
-- Gradually grow into AI and ML development  
-
----
-
-## 🤝 Open To
-
-- Beginner-friendly collaboration  
-- Learning with peers  
-- Internship opportunities and mentorship  
+| Project | What it does | Stack |
+|---|---|---|
+| Image Classifier | CNN trained on CIFAR-10 to classify 10 image categories | TensorFlow, Keras |
+| Car Price Predictor | Predicts used-car selling price from features | Scikit-learn, Random Forest |
+| Trigram Language Model | Interpolated n-gram LM built from scratch | Python, NLP |
 
 ---
 
-## 📫 Connect With Me
-
-- 📍 **Location:** Chennai, India  
-- ✉️ **Email:** rishikcr72401@gmail.com  
-- 🔗 **LinkedIn:** [linkedin.com/in/abnsrishik](https://www.linkedin.com/in/abnsrishik)
+### 🐍 Snake Game &nbsp;·&nbsp; [Repo](https://github.com/abnsrishik/snake-game-python)
+Classic snake game with full OOP architecture — `Snake`, `Food`, `Scoreboard` as separate classes. Real-time collision detection, dynamic scoring, modular design.
+`Python` `OOP` `Turtle`
 
 ---
 
-⭐ *Focused on fundamentals today to build intelligent systems tomorrow.*
+## Certifications
+
+| Certificate | Issuer | Score / Grade | Year |
+|---|---|---|---|
+| Python for Data Science — **Elite** | NPTEL · IIT Madras (Govt. of India) | 75% (23.25/25 assignments) | Jan–Feb 2026 |
+| Supercharge Full-Stack Dev using AI | ShadowFox | Participation | Apr 2026 |
+
+> NPTEL Elite certification is awarded by IIT Madras under the Ministry of Education, Govt. of India.
+
+---
+
+## Skills
+
+| Area | Details |
+|---|---|
+| Languages | Python |
+| ML / Deep Learning | TensorFlow, Keras, Scikit-learn |
+| Core Concepts | CNNs, Regression, N-gram LMs, OOP, Data Structures |
+| Tools | Git, GitHub, Jupyter Notebook, Render |
+| Interests | Machine Learning · NLP / LLMs · Computer Vision · Robotics |
+
+---
+
+## Currently
+
+- Deepening ML fundamentals through hands-on projects
+- Exploring NLP and computer vision
+- **Actively seeking internships** in AI, ML engineering, or data science
+
+---
+
+## Connect
+
+📧 rishikcr72401@gmail.com &nbsp;·&nbsp; 🔗 [linkedin.com/in/abnsrishik](https://www.linkedin.com/in/abnsrishik) &nbsp;·&nbsp; 📍 Chennai, India
+
+---
+
+*First year. NPTEL certified. Built a multi-model AI grading pipeline from scratch.*
