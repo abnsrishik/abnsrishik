@@ -51,12 +51,13 @@ Classic snake game with full OOP architecture — `Snake`, `Food`, `Scoreboard` 
 
 ## Certifications
 
-| Certificate | Issuer | Score / Grade | Year |
+| Certificate | Issuer | Grade / Note | Year |
 |---|---|---|---|
-| Python for Data Science — **Elite** | NPTEL · IIT Madras (Govt. of India) | 75% (23.25/25 assignments) | Jan–Feb 2026 |
+| Python for Data Science — **Elite** | NPTEL · IIT Madras (Govt. of India) | 75% · 23.25/25 assignments | Jan–Feb 2026 |
+| AI/ML Virtual Internship — **Exceptional Performance** | ShadowFox (MSME · ISO 9001) | Completion · C.ID: SF04VIP353 | Apr 2026 |
 | Supercharge Full-Stack Dev using AI | ShadowFox | Participation | Apr 2026 |
 
-> NPTEL Elite certification is awarded by IIT Madras under the Ministry of Education, Govt. of India.
+> NPTEL Elite certification issued by IIT Madras under the Ministry of Education, Govt. of India.
 
 ---
 
