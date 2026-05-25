@@ -44,8 +44,20 @@ Three end-to-end ML projects built during a structured internship program:
 ---
 
 ### 🐍 Snake Game &nbsp;·&nbsp; [Repo](https://github.com/abnsrishik/snake-game-python)
-Classic snake game with full OOP architecture — `Snake`, `Food`, `Scoreboard` as separate classes. Real-time collision detection, dynamic scoring, modular design.
-`Python` `OOP` `Turtle`
+Classic Snake with persistent high score across sessions. `Snake`, `Food`, `Scoreboard` as separate classes. Collision resets the snake instead of ending the game — high score written to `data.txt` on every reset.
+`Python` `OOP` `Turtle` `File I/O`
+
+---
+
+### 🐢 Turtle Crossing Game &nbsp;·&nbsp; [Repo](https://github.com/abnsrishik/turtle-crossing-game)
+Frogger-inspired arcade game. Guide the turtle across a road of oncoming cars — each successful crossing increases level and car speed. `Player`, `CarManager`, `Scoreboard` as separate classes with difficulty scaling.
+`Python` `OOP` `Turtle` `Collision Detection`
+
+---
+
+### 🏓 Pong Game &nbsp;·&nbsp; [Repo](https://github.com/abnsrishik/pong-game-python)
+Two-player Pong with an accelerating ball. Ball speeds up 10% on every paddle hit. `Paddle` class instantiated twice from a single reusable class. Live score display for both players.
+`Python` `OOP` `Turtle` `Two-player`
 
 ---
 
@@ -87,4 +99,4 @@ Classic snake game with full OOP architecture — `Snake`, `Food`, `Scoreboard` 
 
 ---
 
-*First year. NPTEL certified. Built a multi-model AI grading pipeline from scratch.*
+*First year. NPTEL certified. 5 projects shipped — from OOP games to a deployed multi-model AI pipeline.*
