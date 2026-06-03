@@ -43,6 +43,34 @@ Three end-to-end ML projects built during a structured AI/ML internship:
 
 ---
 
+### 💪 Workout Tracker &nbsp;·&nbsp; [Repo](https://github.com/abnsrishik/workout-tracker-python)
+Natural language workout logger. Type your exercise in plain English — Nutritionix NLP API calculates calories burned and duration based on your personal stats, then logs everything automatically to Google Sheets via Sheety API with date and time.
+
+`Python` `Nutritionix API` `Sheety` `Google Sheets` `REST APIs` `NLP`
+
+---
+
+### 📈 Stock News Alert &nbsp;·&nbsp; [Repo](https://github.com/abnsrishik/stock-news-alert-python)
+Monitors daily stock price movement and sends top 3 related news articles via WhatsApp when a stock moves more than 5%. Chains Alpha Vantage (stock data) and NewsAPI (news) together. Automated via GitHub Actions on weekdays only.
+
+`Python` `Alpha Vantage` `NewsAPI` `Twilio` `WhatsApp` `GitHub Actions`
+
+---
+
+### 🌧️ Rain Alert &nbsp;·&nbsp; [Repo](https://github.com/abnsrishik/rain-alert-python)
+Checks the OpenWeatherMap 5-period forecast for your location and sends a WhatsApp message if rain is expected. Runs daily at 5:00 AM IST via GitHub Actions.
+
+`Python` `OpenWeatherMap API` `Twilio` `WhatsApp` `GitHub Actions`
+
+---
+
+### 🎂 Birthday Emailer &nbsp;·&nbsp; [Repo](https://github.com/abnsrishik/birthday-emailer-python)
+Automated birthday emailer — reads a CSV of birthdays, checks today's date, picks a random personalised letter template, and sends an email. Runs daily via GitHub Actions cron schedule. No server needed.
+
+`Python` `smtplib` `Pandas` `GitHub Actions` `Automation`
+
+---
+
 ### 🔑 Password Manager &nbsp;·&nbsp; [Repo](https://github.com/abnsrishik/password-manager-python)
 Desktop password manager with a built-in password generator. Saves credentials per website to JSON, supports instant search, and auto-copies generated passwords to clipboard.
 
@@ -50,15 +78,22 @@ Desktop password manager with a built-in password generator. Saves credentials p
 
 ---
 
+### ❓ Quizzler — Quiz App &nbsp;·&nbsp; [Repo](https://github.com/abnsrishik/quizzler-app-python)
+True/False quiz app that fetches live questions from the Open Trivia Database API. Instant colour feedback, live score tracking, buttons disable between questions to prevent double-press.
+
+`Python` `Tkinter` `REST API` `OOP` `html.unescape`
+
+---
+
 ### 🃏 Flashcard Learning App &nbsp;·&nbsp; [Repo](https://github.com/abnsrishik/flashcard-app-python)
-General-purpose flashcard app — load any two-column CSV and turn it into an interactive deck. Auto-flips after 3 seconds, tracks progress, resumes from remaining cards on relaunch. Works for any subject: languages, geography, science, custom vocab.
+General-purpose flashcard app — load any two-column CSV and turn it into an interactive deck. Auto-flips after 3 seconds, tracks progress, resumes from remaining cards on relaunch. Works for any subject.
 
 `Python` `Tkinter` `Pandas` `CSV` `File I/O`
 
 ---
 
 ### 🍅 Pomodoro Timer &nbsp;·&nbsp; [Repo](https://github.com/abnsrishik/pomodoro-timer-python)
-Desktop Pomodoro productivity timer. Follows the classic 25/5/20 cycle — automatically switches between work, short break, and long break. Tracks completed sessions with ✔️ marks. Color-coded labels per session type.
+Desktop Pomodoro productivity timer. Follows the 25/5/20 cycle — automatically switches between work, short break, and long break. Tracks completed sessions with ✔️ marks.
 
 `Python` `Tkinter` `Math` `Event-driven`
 
@@ -106,6 +141,8 @@ Two-player Pong with an accelerating ball. Ball speeds up 10% on every paddle hi
 | ML / Deep Learning | TensorFlow, Keras, Scikit-learn |
 | GUI Development | Tkinter |
 | Data | Pandas, JSON, CSV, File I/O |
+| APIs | REST APIs, Twilio, OpenWeatherMap, Nutritionix, Alpha Vantage, NewsAPI |
+| Automation | GitHub Actions, smtplib, cron scheduling |
 | Core Concepts | CNNs, Regression, N-gram LMs, OOP, Event-driven programming |
 | Tools | Git, GitHub, Jupyter Notebook, Render, pyperclip |
 | Interests | Machine Learning · NLP / LLMs · Computer Vision · Data Science |
@@ -114,8 +151,8 @@ Two-player Pong with an accelerating ball. Ball speeds up 10% on every paddle hi
 
 ## Currently
 
-- Completing 100 Days of Code — Python (Angela Yu, Udemy) · Day 32/100
-- Learning SQL and Pandas for data science roles
+- Completing 100 Days of Code — Python (Angela Yu, Udemy) · Day 35+/100
+- Learning SQL for data science roles
 - Building toward a solo data project
 - **Actively seeking internships** in Data Science and ML Engineering
 
@@ -127,4 +164,4 @@ Two-player Pong with an accelerating ball. Ball speeds up 10% on every paddle hi
 
 ---
 
-*First year. NPTEL certified. 8 projects shipped — from OOP games to a deployed multi-model AI pipeline.*
+*First year. NPTEL certified. 13 projects shipped — from OOP games to deployed AI pipelines and API automations.*
