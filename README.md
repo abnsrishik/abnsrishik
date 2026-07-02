@@ -7,7 +7,7 @@ Chennai, India &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/abnsrishik)
 
 ## About
 
-First-year AI student who builds and ships — not just learns.
+Second-year AI student who builds and ships — not just learns.
 
 I'm interested in the full stack of intelligence: how models learn from data, how language can be understood by machines, and how AI tools can solve real problems for real people. My approach is to build things early and improve them iteratively.
 
