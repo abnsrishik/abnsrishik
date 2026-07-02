@@ -32,6 +32,21 @@ No keyword matching. Awards marks based only on what is actually written, suppor
 
 ---
 
+### ⚡ FinPilot &nbsp;·&nbsp; [Live App](https://tryfinpilot.streamlit.app) &nbsp;·&nbsp; [Repo](https://github.com/abnsrishik/finpilot)
+AI content pipeline for Indian finance creators. Cuts content production from 5–8 hours to ~1 minute.
+
+**How it works:**
+1. **Voice Analysis** — extracts your writing style: opening patterns, paragraph rhythm, transitions
+2. **Research** — 3 targeted web searches via Tavily API, deduplicated
+3. **Angle Selection** — LLM picks the best content angle from research + your voice profile
+4. **Multi-format Output** — newsletter, LinkedIn post, Twitter thread, and email copy in one run
+
+Cost: $0.02/run on Groq's free tier.
+
+`Python` `Streamlit` `Groq API` `Llama 3.3 70B` `Tavily API` `Streamlit Cloud`
+
+---
+
 ### 🤖 ShadowFox Internship — ML Projects &nbsp;·&nbsp; [Repo](https://github.com/abnsrishik/shadowfox)
 Three end-to-end ML projects built during a structured AI/ML internship:
 
@@ -141,10 +156,10 @@ Two-player Pong with an accelerating ball. Ball speeds up 10% on every paddle hi
 | ML / Deep Learning | TensorFlow, Keras, Scikit-learn |
 | GUI Development | Tkinter |
 | Data | Pandas, JSON, CSV, File I/O |
-| APIs | REST APIs, Twilio, OpenWeatherMap, Nutritionix, Alpha Vantage, NewsAPI |
+| APIs | REST APIs, Groq API, Tavily API, Twilio, OpenWeatherMap, Nutritionix, Alpha Vantage, NewsAPI |
 | Automation | GitHub Actions, smtplib, cron scheduling |
 | Core Concepts | CNNs, Regression, N-gram LMs, OOP, Event-driven programming |
-| Tools | Git, GitHub, Jupyter Notebook, Render, pyperclip |
+| Tools | Git, GitHub, Jupyter Notebook, Render, Streamlit, pyperclip |
 | Interests | Machine Learning · NLP / LLMs · Computer Vision · Data Science |
 
 ---
@@ -153,7 +168,7 @@ Two-player Pong with an accelerating ball. Ball speeds up 10% on every paddle hi
 
 - Completing 100 Days of Code — Python (Angela Yu, Udemy) · Day 35+/100
 - Learning SQL for data science roles
-- Building toward a solo data project
+- Shipped FinPilot — deployed AI content pipeline for finance creators
 - **Actively seeking internships** in Data Science and ML Engineering
 
 ---
@@ -164,4 +179,4 @@ Two-player Pong with an accelerating ball. Ball speeds up 10% on every paddle hi
 
 ---
 
-*First year. NPTEL certified. 13 projects shipped — from OOP games to deployed AI pipelines and API automations.*
+*First year. NPTEL certified. 14 projects shipped — from OOP games to deployed AI pipelines and API automations.*
